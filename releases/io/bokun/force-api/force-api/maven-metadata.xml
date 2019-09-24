@@ -3,11 +3,12 @@
   <groupId>io.bokun.force-api</groupId>
   <artifactId>force-api</artifactId>
   <versioning>
-    <release>v39.0-r01</release>
+    <release>v39.0-r02</release>
     <versions>
       <version>v39.0</version>
       <version>v39.0-r01</version>
+      <version>v39.0-r02</version>
     </versions>
-    <lastUpdated>20190613124157</lastUpdated>
+    <lastUpdated>20190924094618</lastUpdated>
   </versioning>
 </metadata>
