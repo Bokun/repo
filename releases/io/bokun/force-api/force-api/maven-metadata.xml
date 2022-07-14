@@ -3,7 +3,7 @@
   <groupId>io.bokun.force-api</groupId>
   <artifactId>force-api</artifactId>
   <versioning>
-    <release>v41.0-r06</release>
+    <release>v41.0-r07</release>
     <versions>
       <version>v39.0</version>
       <version>v39.0-r01</version>
@@ -18,7 +18,8 @@
       <version>v40.0-r05</version>
       <version>v41.0-r05</version>
       <version>v41.0-r06</version>
+      <version>v41.0-r07</version>
     </versions>
-    <lastUpdated>20211124153626</lastUpdated>
+    <lastUpdated>20220714120148</lastUpdated>
   </versioning>
 </metadata>
